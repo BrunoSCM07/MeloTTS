@@ -11,6 +11,8 @@ pykakasi==2.2.1
 fugashi==1.3.0
 g2p_en==2.1.0
 anyascii==0.3.2
+botocore>=1.34.98
+cached_path>=1.6.2
 jamo==0.4.1
 gruut[de,es,fr]==2.2.3
 g2pkk>=0.1.1
@@ -22,7 +24,7 @@ unidecode==1.3.7
 pypinyin==0.50.0
 cn2an==0.5.22
 jieba==0.42.1
-gradio
+gradio==4.26.0
 langid==1.1.6
 tqdm
 tensorboard==2.16.2
